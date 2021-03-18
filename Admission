@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<table bgcolor=yellow border=solid width =300 height=500>
+<tr><th>Name:</th><td><input type="text"placeholder="Enter Name"></td></tr>
+<tr><th>Reg No:</th><td><input type="text"placeholder="Enter Reg no"></td></tr>
+<tr><th>Address:</th><td><textarea rows=5 placeholder="Enter Address"></textarea></td></tr>
+<tr><th>Dob:</th><td><input type="date"></td></tr>
+<tr><th>Time of Registration:</th><td><input type="time"></td></tr>
+<tr><th>Your Ability:</th><td><input type="range"min="1"max="10"></td></tr>
+<tr><th>Image:</th><td><input type="file"></td></tr>
+<tr><th>Color:</th><td><input type="color"></td></tr>
+<tr><td><input type="submit"value="Submit"></td><td><input type="reset" value="Clear"</td></tr>
+</body>
+</html>
